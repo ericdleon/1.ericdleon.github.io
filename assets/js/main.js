@@ -126,7 +126,7 @@ TABLE OF CONTENTS
 			animationIn: "flipInY", //css class for entrace animation
 			animationOut: "flipOutY", //css class for exit animation
 			speed: 3000, //delay in milliseconds between two words
-			words: ['<span class=red>OOPS</span>, something went wrong', 'Please try again!'] //Array of words, it may contain HTML values
+			words: ['<span class=red>Welcome</span>to my webpage', 'Feel free to browse around!'] //Array of words, it may contain HTML values
 		});
 
 	});
