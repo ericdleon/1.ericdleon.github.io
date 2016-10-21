@@ -27,7 +27,7 @@ NOTE: All the measurements are in "em" instead of "px", so changing body font-si
 /*-- ========================================= --*/
 
 html {
-	font-size: 100%;
+	font-size: 10%;
 }
 
 body {
