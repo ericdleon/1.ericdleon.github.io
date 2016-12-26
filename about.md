@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-({{ site.url }}/{{ site.picture }})
+{{ site.url }}/{{ site.picture }}
 
 <p>TBA.</p>
 
