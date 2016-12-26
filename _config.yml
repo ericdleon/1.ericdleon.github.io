@@ -29,21 +29,21 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
- facebook: https://www.facebook.com/EricDeleon97
+ facebook: EricDeleon97
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: https://www.linkedin.com/in/eric-deleon
+ linkedin: eric-deleon
 # youtube: myyoutube
 # spotify: myspotify
- github: https://github.com/ericdleon
+ github: ericdleon
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
- email: mailto:deleoneric97@gmail.com?subject=Email%20Subject
+ email: deleoneric97@gmail.com
 
 authors:
     johndoe:
