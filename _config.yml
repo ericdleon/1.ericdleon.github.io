@@ -29,21 +29,21 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
- facebook: EricDeleon97
+facebook: EricDeleon97
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: eric-deleon
+linkedin: eric-deleon
 # youtube: myyoutube
 # spotify: myspotify
- github: ericdleon
+github: ericdleon
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
- email: deleoneric97@gmail.com
+email: deleoneric97@gmail.com
 
 authors:
     johndoe:
@@ -72,7 +72,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
