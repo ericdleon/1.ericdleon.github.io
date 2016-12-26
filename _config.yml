@@ -1,6 +1,6 @@
 # main text of home
 name: Eric Deleon
-bio: Student Developer
+bio: Student at Rutgers New Brunswick
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -60,7 +60,7 @@ authors:
         twitter: jamesfoster
     ericdeleon:
         name: Eric Deleon
-        bio: Student Developer
+        bio: Student Rutgers New Brunswick
         external-image: false
         picture: assets/images/profile.jpg
         
