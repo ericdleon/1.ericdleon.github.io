@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-{{ site.url }}/{{ site.picture }}
+<img style=" border-radius: 100%; width: 40%; " alt="Eric Deleon" src="{{ site.url }}/{{ site.picture }}">
 
 <p>TBA.</p>
 
