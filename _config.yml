@@ -1,6 +1,6 @@
 # main text of home
 name: Eric Deleon
-bio: A Man who travels the world eating noodles
+bio: Aspiring Web Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-# picture: assets/images/profile.jpg
+picture: assets/images/profile.jpg
 
 url: ericdeleon.me
 # your url: http://USERNAME.github.io
@@ -29,21 +29,21 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+ facebook: https://www.facebook.com/EricDeleon97
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin: https://www.linkedin.com/in/eric-deleon
 # youtube: myyoutube
 # spotify: myspotify
-# github: mygithub
+ github: https://github.com/ericdleon
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-# email: myemail@gmail.com
+ email: mailto:deleoneric97@gmail.com?subject=Email%20Subject
 
 authors:
     johndoe:
