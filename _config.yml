@@ -1,6 +1,6 @@
 # main text of home
 name: Eric Deleon
-bio: Aspiring Web Developer
+bio: Student Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -58,9 +58,9 @@ authors:
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
-    jamesfoster:
+    ericdeleon:
         name: Eric Deleon
-        bio: Aspiring Web Developer
+        bio: Student Developer
         external-image: false
         picture: assets/images/profile.jpg
         
