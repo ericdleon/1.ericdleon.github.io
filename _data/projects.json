@@ -1,6 +1,6 @@
 {
     "hackathons": {
-        "name": "Hackathons",
+        "name": "Projects",
         "content": [
             {
                 "name": "Defending Hackerspace",
@@ -38,44 +38,3 @@
         ]
     }
 }
-{
-    "Projects": {
-        "name": "Hackathons",
-        "content": [
-            {
-                "name": "Defending Hackerspace",
-                "link": "https://devpost.com/software/defend-hackerspace",
-                "hackathon": {
-                    "name": "HackNY",
-                    "date": {
-                        "month": "October",
-                        "year": "2016"
-                    }
-                }
-            },
-            {
-                "name": "Cyber-dome",
-                "link": "https://devpost.com/software/cyberdome",
-                "hackathon": {
-                    "name": "HackNJIT",
-                    "date": {
-                        "month": "November",
-                        "year": "2016"
-                    }
-                }
-            },
-            {
-                "name": "Git Pulled VR",
-                "link": "https://devpost.com/software/git-pulled-vr",
-                "hackathon": {
-                    "name": "HackRPI",
-                    "date": {
-                        "month": "November",
-                        "year": "2016"
-                    }
-                }
-            }
-        ]
-    }
-}
-
