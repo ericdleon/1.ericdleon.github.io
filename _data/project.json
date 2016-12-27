@@ -13,6 +13,17 @@
                     }
                 }
             },
+            {
+                "name": "Cyber-dome",
+                "link": "https://devpost.com/software/cyberdome",
+                "hackathon": {
+                    "name": "HackNJIT",
+                    "date": {
+                        "month": "November",
+                        "year": "2016"
+                    }
+                }
+            }
         ]
     }
 }
