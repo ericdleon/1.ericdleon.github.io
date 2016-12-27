@@ -23,6 +23,17 @@
                         "year": "2016"
                     }
                 }
+            },
+            {
+                "name": "Git Pulled VR",
+                "link": "https://devpost.com/software/git-pulled-vr",
+                "hackathon": {
+                    "name": "HackRPI",
+                    "date": {
+                        "month": "November",
+                        "year": "2016"
+                    }
+                }
             }
         ]
     }
