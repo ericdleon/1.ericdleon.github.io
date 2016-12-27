@@ -13,6 +13,28 @@
                     }
                 }
             },
+            {
+                "name": "Cyber-dome",
+                "link": "https://devpost.com/software/cyberdome",
+                "hackathon": {
+                    "name": "HackNJIT",
+                    "date": {
+                        "month": "November",
+                        "year": "2016"
+                    }
+                }
+            },
+            {
+                "name": "Git Pulled VR",
+                "link": "https://devpost.com/software/git-pulled-vr",
+                "hackathon": {
+                    "name": "HackRPI",
+                    "date": {
+                        "month": "November",
+                        "year": "2016"
+                    }
+                }
+            }
         ]
     }
 }
