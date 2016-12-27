@@ -1,0 +1,18 @@
+{
+    "hackathons": {
+        "name": "Hackathons",
+        "content": [
+            {
+                "name": "Defending Hackerspace",
+                "link": "https://devpost.com/software/defend-hackerspace",
+                "hackathon": {
+                    "name": "HackNY",
+                    "date": {
+                        "month": "October",
+                        "year": "2016"
+                    }
+                }
+            },
+        ]
+    }
+}
