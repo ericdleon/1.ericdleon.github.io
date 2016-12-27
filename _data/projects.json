@@ -24,13 +24,24 @@
                     }
                 }
             },
-            {
+			{
                 "name": "Git Pulled VR",
                 "link": "https://devpost.com/software/git-pulled-vr",
                 "hackathon": {
                     "name": "HackRPI",
                     "date": {
                         "month": "November",
+                        "year": "2016"
+                    }
+                }
+            },
+            {
+                "name": "Connect 4",
+                "link": "https://github.com/ericdleon/Connect-4",
+                "hackathon": {
+                    "name": "CS11 Project",
+                    "date": {
+                        "month": "December",
                         "year": "2016"
                     }
                 }
