@@ -11,4 +11,4 @@ layout: page
 <p> I'm skilled in the Java language. I am familiar with HTML, Javascript, and CSS. I am familiar with using tools such as Eclipse, IntelliJ, Unity, Blender, Git, and the Command Line/Vim</p>
 
 <center><h1>Hobbies</h1></center>
-<p>	In my free time I focus on gaining new skills by developing pseudo-applications and websites. I like going to hackathons to learn and to develop Virtual Reality games. Outside of my CS related hobbies I enjoy playing tennis, badminton, ping pong, and watching youtube videos/Netflix.</p>
+<p>	In my free time I focus on gaining new skills by developing pseudo-applications and websites for practice. I like going to hackathons to learn and to develop Virtual Reality games. Outside of my CS related hobbies I enjoy playing tennis, badminton, ping pong, and watching youtube videos/Netflix.</p>
