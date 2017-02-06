@@ -45,6 +45,17 @@
                         "year": "2016"
                     }
                 }
+            },
+            {
+                "name": "IT Simulator 2017",
+                "link": "https://devpost.com/software/it-simulator-2017",
+                "hackathon": {
+                    "name": "ProfHacks",
+                    "date": {
+                        "month": "February",
+                        "year": "2017"
+                    }
+                }
             }
         ]
     }
