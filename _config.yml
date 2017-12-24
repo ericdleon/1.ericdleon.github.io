@@ -8,7 +8,7 @@ description: Technology and stuff
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 url: http://ericdleon.github.io
 # your url: http://USERNAME.github.io
