@@ -10,7 +10,8 @@ description: Technology and stuff
 external-image: false
 picture: assets/images/profile.jpeg
 
-url: http://ericdleon.github.io
+# https://ericdleon.github.io
+url: 
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
